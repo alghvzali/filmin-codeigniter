@@ -1,4 +1,4 @@
 # filmin-codeigniter
 Basic system for booking movies
 
-[![N|Solid](filmin-landing.png)](https://nodesource.com/products/nsolid)
+![Landing](https://github.com/alghvzali/filmin-codeigniter/blob/master/filmin-landing.PNG)(https://github.com/alghvzali/filmin-codeigniter/blob/master/filmin-landing.PNG)

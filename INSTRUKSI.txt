@@ -1,0 +1,9 @@
+Nama Database : film
+
+Akun Admin  
+Username : admin
+Password : alghazali
+
+Akun Manager
+Username : Manager
+Password : alghazali
